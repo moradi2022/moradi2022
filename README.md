@@ -1,7 +1,6 @@
 Hi 👋 My name is Mahdi Moradi
 =============================
-
-Android / BackEnd Developer
+Full Stack Developer 
 ---------------------------
 
 Proficient in sql lite internal storage, shareprefrenses Proficient in communicating with hardware with Socket, WebSocket Proficient in connecting Git, Github Proficient in Http communication including Put, Post, Delete, Get and... Proficient in fully communicating with sql server through asp webserver Simple and practical design with the help of flutter flow Simultaneous output of Android, ios, web, Tv smart, apple watch Proficient in working with Json, Soap, Xml files Responsive layout design Mastering the production of media players, photo, sound and full control over them Complete mastery of setting up communication ports such as ssh, ftp, telnet, apache... Proficient in Push Notification sending systems Proficient in Multi Threading designs Proficient in Design Pattern MVC, MVVM, or MVP Regarding UI, UX design Complete mastery of Adobe graphic software, including Photoshop, Illustrator, XD ,Figma
